@@ -120,6 +120,9 @@ All tasks are stored in the `tasks.json` file in the following format:
 ## ✌️ License
 This project is open-source and distributed under the MIT License.
 
+## Project url 
+https://roadmap.sh/projects/task-tracker
+
 ## ❓ Questions
 If you have any questions or suggestions, contact us at: **yana.makogon@gmail.com**.
 
